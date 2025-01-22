@@ -86,7 +86,7 @@ function App() {
 
   return (
     <div className="flex justify-center items-center h-screen bg-gradient-to-r from-blue-100 to-indigo-400">
-      <div className="bg-white p-6 rounded-xl shadow-lg w-full md:w-[400px]">
+      <div className="bg-white p-6 rounded-xl shadow-lg md:w-[400px]">
         <input
           type="text"
           placeholder="Search your city"

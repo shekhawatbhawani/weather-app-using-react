@@ -16,7 +16,7 @@ const Card = (props) => {
   } = props;
 
   return (
-    <div className="max-w-sm mx-auto px-6 bg-white rounded-xl shadow-lg shadow-gray-50">
+    <div className="mx-auto px-6 bg-white rounded-xl shadow-lg shadow-gray-50">
       <h1 className="text-center text-3xl font-semibold text-gray-900">
         {city}
       </h1>
